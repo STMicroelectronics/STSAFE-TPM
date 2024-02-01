@@ -11,6 +11,7 @@ The ST33KTPM family offers three products with different interfaces and lifetime
 
 ## Key features and Benefits
 -Proven and standardized security solution
+
 -High assurance based on Common Criteria, TCG and FIPS 140 certifications
 -Easy integration with Windows, Linux OS and TCG TPM Software Stack
 -Cryptographic services with improved performance
