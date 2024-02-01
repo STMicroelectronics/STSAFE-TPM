@@ -7,7 +7,7 @@ The independent security certifications by Common Criteria, TCG and FIPS provide
 
 ## Product portfolio
 The ST33KTPM family offers three products with different interfaces and lifetimes to support all ecosystem requirements.
-![Summary table of ST33KTPM products] (/pictures/Portfolio.png)
+[![Summary table of ST33KTPM products] (../pictures/Portfolio.png)]
 
 ## Key Benefits
 - Proven and standardized security solution
