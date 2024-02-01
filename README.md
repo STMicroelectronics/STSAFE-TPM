@@ -9,7 +9,9 @@ The independent security certifications by Common Criteria, TCG and FIPS provide
 The ST33KTPM family offers three products with different interfaces and lifetimes to support all ecosystem requirements.
 
 
-![Summary table of ST33KTPM products](https://github.com/collarto73/STSAFE-TPM/blob/main/pictures/Portfolio.png)
+![Summary table of ST33KTPM products](https://github.com/STMicroelectronics/STSAFE-TPM/blob/main/pictures/Portfolio.png)
+
+Product databriefs can be downloaded from the following links:
 - [ST33KTPM2XSPI](https://www.st.com/en/secure-mcus/st33ktpm2xspi.html)
 - [ST33KTPM2X](https://www.st.com/en/secure-mcus/st33ktpm2x.html)
 - [ST33KTPM2I](https://www.st.com/en/secure-mcus/st33ktpm2i.html)
