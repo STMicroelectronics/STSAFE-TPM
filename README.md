@@ -33,8 +33,8 @@ The ST33KTPM family offers three products with different interfaces and lifetime
 
 
 
-## STMicroelectronics Open Source Projects
+## Open Source Projects
 
 
 
-## Partners Open Source Projects
+
