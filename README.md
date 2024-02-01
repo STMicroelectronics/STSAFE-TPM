@@ -1,4 +1,4 @@
-# STSAFE<sup>TM</sup>-TPM
+# STSAFE&trade;-TPM
 
 ST33KTPM is the latest addition to the STSAFE-TPM family, a widely used and standardized Trusted Platform Module that serves as a cornerstone of security for PCs and servers.
 TPMs are required by Microsoft Windows and natively supported by Linux operating systems.
@@ -10,6 +10,9 @@ The ST33KTPM family offers three products with different interfaces and lifetime
 
 
 ![Summary table of ST33KTPM products](https://github.com/collarto73/STSAFE-TPM/blob/main/pictures/Portfolio.png)
+- [ST33KTPM2XSPI](https://www.st.com/en/secure-mcus/st33ktpm2xspi.html)
+- [ST33KTPM2X](https://www.st.com/en/secure-mcus/st33ktpm2x.html)
+- [ST33KTPM2I](https://www.st.com/en/secure-mcus/st33ktpm2i.html)
 
 ## Key Benefits
 - Proven and standardized security solution
@@ -30,10 +33,19 @@ The ST33KTPM family offers three products with different interfaces and lifetime
 - Extended operating temperature range (-40°C to 105°C)
 
 ## Application notes
+- [Integrating the STSAFE-TPM trusted platform modules with Linux®](https://www.st.com/resource/en/application_note/an5714-integrating-the-stsafetpm-trusted-platform-modules-with-linux-stmicroelectronics.pdf)
 
+## STM32MP1x-DK platform intergration
+To integrate STSAFE-TPM products on
+- [STM32MP157F-DK2](https://www.st.com/en/evaluation-tools/stm32mp157f-dk2.html) board.
+- [STM32MP135F-DK](https://www.st.com/en/evaluation-tools/stm32mp135f-dk.html) board.
+  
+please go to dedicated github : [X-LINUX-TPM](https://github.com/STMicroelectronics/meta-st-x-linux-tpm)
 
+The X-LINUX-TPM expansion package is available on [X-LINUX-TPM wiki article](https://wiki.st.com/stm32mpu/wiki/X-LINUX-TPM_expansion_package).
 
-## Open Source Projects
+## STMicroelectronics Open Source Projects
+- [I²C driver](https://github.com/STMicroelectronics/TCG-TPM-I2C-DRV) for Linux kernel versions before 6.1
 
 
 
