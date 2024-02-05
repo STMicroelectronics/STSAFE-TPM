@@ -37,7 +37,7 @@ Product databriefs can be downloaded from the following links:
 ## Application notes
 - [Integrating the STSAFE-TPM trusted platform modules with Linux®](https://www.st.com/resource/en/application_note/an5714-integrating-the-stsafetpm-trusted-platform-modules-with-linux-stmicroelectronics.pdf)
 
-## STM32MP1x-DK platform intergration
+## STM32MP1x-DK platform integration
 To integrate STSAFE-TPM products on
 - [STM32MP157F-DK2](https://www.st.com/en/evaluation-tools/stm32mp157f-dk2.html) board.
 - [STM32MP135F-DK](https://www.st.com/en/evaluation-tools/stm32mp135f-dk.html) board.
